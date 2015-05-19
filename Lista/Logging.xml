@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2015-04-19T20:44:35</date>
+  <millis>1429469075910</millis>
+  <sequence>0</sequence>
+  <logger>ProyectoClase.ListaEnlazada.TestLista</logger>
+  <level>FINE</level>
+  <class>ProyectoClase.ListaEnlazada.TestLista</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Lista Vacia.</message>
+</record>
+<record>
+  <date>2015-04-19T20:44:35</date>
+  <millis>1429469075935</millis>
+  <sequence>1</sequence>
+  <logger>ProyectoClase.ListaEnlazada.TestLista</logger>
+  <level>FINE</level>
+  <class>ProyectoClase.ListaEnlazada.TestLista</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>7</message>
+</record>
+<record>
+  <date>2015-04-19T20:44:35</date>
+  <millis>1429469075935</millis>
+  <sequence>2</sequence>
+  <logger>ProyectoClase.ListaEnlazada.TestLista</logger>
+  <level>FINE</level>
+  <class>ProyectoClase.ListaEnlazada.TestLista</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>1º numero:3
+</message>
+</record>
+<record>
+  <date>2015-04-19T20:44:35</date>
+  <millis>1429469075935</millis>
+  <sequence>3</sequence>
+  <logger>ProyectoClase.ListaEnlazada.TestLista</logger>
+  <level>FINE</level>
+  <class>ProyectoClase.ListaEnlazada.TestLista</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2º numero:5
+</message>
+</record>
+<record>
+  <date>2015-04-19T20:44:35</date>
+  <millis>1429469075935</millis>
+  <sequence>4</sequence>
+  <logger>ProyectoClase.ListaEnlazada.TestLista</logger>
+  <level>FINE</level>
+  <class>ProyectoClase.ListaEnlazada.TestLista</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>3º numero:4
+</message>
+</record>
+<record>
+  <date>2015-04-19T20:44:35</date>
+  <millis>1429469075935</millis>
+  <sequence>5</sequence>
+  <logger>ProyectoClase.ListaEnlazada.TestLista</logger>
+  <level>FINE</level>
+  <class>ProyectoClase.ListaEnlazada.TestLista</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>4º numero:6
+</message>
+</record>
+<record>
+  <date>2015-04-19T20:44:35</date>
+  <millis>1429469075936</millis>
+  <sequence>6</sequence>
+  <logger>ProyectoClase.ListaEnlazada.TestLista</logger>
+  <level>FINE</level>
+  <class>ProyectoClase.ListaEnlazada.TestLista</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>6, 4, 5, 3, 7</message>
+</record>
+<record>
+  <date>2015-04-19T20:44:35</date>
+  <millis>1429469075936</millis>
+  <sequence>7</sequence>
+  <logger>ProyectoClase.ListaEnlazada.TestLista</logger>
+  <level>FINE</level>
+  <class>ProyectoClase.ListaEnlazada.TestLista</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>6, 4, 5, 3, 1, 7</message>
+</record>
+</log>
