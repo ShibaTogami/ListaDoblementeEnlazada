@@ -41,7 +41,8 @@ public class ListaEnlazada<T> // Implementa una lista con nodos de datos de tipo
 
     @Override
     public String toString() {
-      return dato.toString();
+      String salida = dato.toString();
+      return salida;
     }
   }
 
